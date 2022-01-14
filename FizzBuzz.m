@@ -1,5 +1,5 @@
-%%This is FizzBuzz, so I don't get fucked in the future
-disp ('Yes Mr./Ms. employer, I can code FizzBuzz')
+%%This is FizzBuzz
+disp ('I can code FizzBuzz')
 pause
 y=[1:100];
 n=length(y);
